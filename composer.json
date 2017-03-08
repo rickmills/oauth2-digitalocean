@@ -1,5 +1,5 @@
 {
-    "name": "rickmills/oauth2-digitalocean",
+    "name": "chrishemmings/oauth2-digitalocean",
     "description": "DigitalOcean OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
     "keywords": [
         "oauth",
